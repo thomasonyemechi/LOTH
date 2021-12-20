@@ -1,0 +1,403 @@
+[24-Dec-2020 02:07:52 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/mychat.php on line 9
+[24-Dec-2020 02:07:52 Africa/Lagos] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/thehilltop/public_html/chat/index.php on line 45
+[24-Dec-2020 02:07:52 Africa/Lagos] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/thehilltop/public_html/chat/index.php on line 46
+[24-Dec-2020 02:07:52 Africa/Lagos] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/thehilltop/public_html/chat/index.php on line 74
+[24-Dec-2020 02:07:52 Africa/Lagos] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/thehilltop/public_html/chat/index.php on line 75
+[24-Dec-2020 01:08:00 UTC] PHP Warning:  include(../admin/asset/connect.inc.php): failed to open stream: No such file or directory in /home/thehilltop/public_html/chat/ext.php on line 3
+[24-Dec-2020 01:08:00 UTC] PHP Warning:  include(../admin/asset/connect.inc.php): failed to open stream: No such file or directory in /home/thehilltop/public_html/chat/ext.php on line 3
+[24-Dec-2020 01:08:00 UTC] PHP Warning:  include(): Failed opening '../admin/asset/connect.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/thehilltop/public_html/chat/ext.php on line 3
+[24-Dec-2020 01:08:00 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/mychat.php on line 9
+[24-Dec-2020 01:08:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function userName() in /home/thehilltop/public_html/chat/ext.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/thehilltop/public_html/chat/ext.php on line 7
+[24-Dec-2020 01:09:00 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/Chat.php on line 9
+[24-Dec-2020 01:09:00 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/Chat.php on line 21
+[24-Dec-2020 01:10:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/Chat.php on line 9
+[24-Dec-2020 01:10:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/Chat.php on line 21
+[24-Dec-2020 01:11:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/Chat.php on line 9
+[24-Dec-2020 01:11:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/Chat.php on line 21
+[24-Dec-2020 01:12:07 UTC] PHP Warning:  Use of undefined constant DB_SERVER1 - assumed 'DB_SERVER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:12:07 UTC] PHP Warning:  Use of undefined constant DB_USER1 - assumed 'DB_USER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:12:07 UTC] PHP Warning:  Use of undefined constant DB_PASS1 - assumed 'DB_PASS1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:12:07 UTC] PHP Warning:  Use of undefined constant DB_NAME1 - assumed 'DB_NAME1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:12:07 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:12:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:12:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/Chat.php on line 22
+[24-Dec-2020 02:12:38 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/mychat.php on line 9
+[24-Dec-2020 02:12:38 Africa/Lagos] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/thehilltop/public_html/chat/index.php on line 45
+[24-Dec-2020 02:12:38 Africa/Lagos] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/thehilltop/public_html/chat/index.php on line 46
+[24-Dec-2020 02:12:38 Africa/Lagos] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/thehilltop/public_html/chat/index.php on line 74
+[24-Dec-2020 02:12:38 Africa/Lagos] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/thehilltop/public_html/chat/index.php on line 75
+[24-Dec-2020 02:12:45 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/mychat.php on line 9
+[24-Dec-2020 02:12:45 Africa/Lagos] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/thehilltop/public_html/chat/ext.php on line 9
+[24-Dec-2020 02:12:45 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/thehilltop/public_html/chat/ext.php on line 11
+[24-Dec-2020 02:13:24 Africa/Lagos] PHP Warning:  Use of undefined constant DB_SERVER1 - assumed 'DB_SERVER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/mychat.php on line 10
+[24-Dec-2020 02:13:24 Africa/Lagos] PHP Warning:  Use of undefined constant DB_USER1 - assumed 'DB_USER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/mychat.php on line 10
+[24-Dec-2020 02:13:24 Africa/Lagos] PHP Warning:  Use of undefined constant DB_PASS1 - assumed 'DB_PASS1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/mychat.php on line 10
+[24-Dec-2020 02:13:24 Africa/Lagos] PHP Warning:  Use of undefined constant DB_NAME1 - assumed 'DB_NAME1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/mychat.php on line 10
+[24-Dec-2020 02:13:24 Africa/Lagos] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/mychat.php on line 10
+[24-Dec-2020 02:13:24 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/mychat.php on line 10
+[24-Dec-2020 02:13:24 Africa/Lagos] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/thehilltop/public_html/chat/index.php on line 45
+[24-Dec-2020 02:13:24 Africa/Lagos] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/thehilltop/public_html/chat/index.php on line 46
+[24-Dec-2020 02:13:24 Africa/Lagos] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/thehilltop/public_html/chat/index.php on line 74
+[24-Dec-2020 02:13:24 Africa/Lagos] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/thehilltop/public_html/chat/index.php on line 75
+[24-Dec-2020 02:13:38 Africa/Lagos] PHP Warning:  Use of undefined constant DB_SERVER1 - assumed 'DB_SERVER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/mychat.php on line 10
+[24-Dec-2020 02:13:38 Africa/Lagos] PHP Warning:  Use of undefined constant DB_USER1 - assumed 'DB_USER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/mychat.php on line 10
+[24-Dec-2020 02:13:38 Africa/Lagos] PHP Warning:  Use of undefined constant DB_PASS1 - assumed 'DB_PASS1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/mychat.php on line 10
+[24-Dec-2020 02:13:38 Africa/Lagos] PHP Warning:  Use of undefined constant DB_NAME1 - assumed 'DB_NAME1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/mychat.php on line 10
+[24-Dec-2020 02:13:38 Africa/Lagos] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/mychat.php on line 10
+[24-Dec-2020 02:13:38 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/mychat.php on line 10
+[24-Dec-2020 02:13:38 Africa/Lagos] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/thehilltop/public_html/chat/ext.php on line 9
+[24-Dec-2020 02:13:38 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/thehilltop/public_html/chat/ext.php on line 11
+[24-Dec-2020 01:14:31 UTC] PHP Warning:  Use of undefined constant DB_SERVER1 - assumed 'DB_SERVER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:31 UTC] PHP Warning:  Use of undefined constant DB_USER1 - assumed 'DB_USER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:31 UTC] PHP Warning:  Use of undefined constant DB_PASS1 - assumed 'DB_PASS1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:31 UTC] PHP Warning:  Use of undefined constant DB_NAME1 - assumed 'DB_NAME1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:31 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/Chat.php on line 22
+[24-Dec-2020 01:14:42 UTC] PHP Warning:  Use of undefined constant DB_SERVER1 - assumed 'DB_SERVER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:42 UTC] PHP Warning:  Use of undefined constant DB_USER1 - assumed 'DB_USER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:42 UTC] PHP Warning:  Use of undefined constant DB_PASS1 - assumed 'DB_PASS1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:42 UTC] PHP Warning:  Use of undefined constant DB_NAME1 - assumed 'DB_NAME1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:42 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:42 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:42 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/Chat.php on line 22
+[24-Dec-2020 01:14:43 UTC] PHP Warning:  Use of undefined constant DB_SERVER1 - assumed 'DB_SERVER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:43 UTC] PHP Warning:  Use of undefined constant DB_USER1 - assumed 'DB_USER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:43 UTC] PHP Warning:  Use of undefined constant DB_PASS1 - assumed 'DB_PASS1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:43 UTC] PHP Warning:  Use of undefined constant DB_NAME1 - assumed 'DB_NAME1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:43 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:43 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:43 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/Chat.php on line 22
+[24-Dec-2020 01:14:48 UTC] PHP Warning:  Use of undefined constant DB_SERVER1 - assumed 'DB_SERVER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:48 UTC] PHP Warning:  Use of undefined constant DB_USER1 - assumed 'DB_USER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:48 UTC] PHP Warning:  Use of undefined constant DB_PASS1 - assumed 'DB_PASS1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:48 UTC] PHP Warning:  Use of undefined constant DB_NAME1 - assumed 'DB_NAME1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:48 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:48 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:48 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/Chat.php on line 22
+[24-Dec-2020 01:14:48 UTC] PHP Warning:  include(../admin/asset/connect.inc.php): failed to open stream: No such file or directory in /home/thehilltop/public_html/chat/insert.php on line 4
+[24-Dec-2020 01:14:48 UTC] PHP Warning:  include(../admin/asset/connect.inc.php): failed to open stream: No such file or directory in /home/thehilltop/public_html/chat/insert.php on line 4
+[24-Dec-2020 01:14:48 UTC] PHP Warning:  include(): Failed opening '../admin/asset/connect.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/thehilltop/public_html/chat/insert.php on line 4
+[24-Dec-2020 01:14:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function userName() in /home/thehilltop/public_html/chat/insert.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/thehilltop/public_html/chat/insert.php on line 6
+[24-Dec-2020 01:14:48 UTC] PHP Warning:  Use of undefined constant DB_SERVER1 - assumed 'DB_SERVER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:48 UTC] PHP Warning:  Use of undefined constant DB_USER1 - assumed 'DB_USER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:48 UTC] PHP Warning:  Use of undefined constant DB_PASS1 - assumed 'DB_PASS1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:48 UTC] PHP Warning:  Use of undefined constant DB_NAME1 - assumed 'DB_NAME1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:48 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:48 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:48 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/Chat.php on line 22
+[24-Dec-2020 01:14:48 UTC] PHP Warning:  Use of undefined constant DB_SERVER1 - assumed 'DB_SERVER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:48 UTC] PHP Warning:  Use of undefined constant DB_USER1 - assumed 'DB_USER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:48 UTC] PHP Warning:  Use of undefined constant DB_PASS1 - assumed 'DB_PASS1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:48 UTC] PHP Warning:  Use of undefined constant DB_NAME1 - assumed 'DB_NAME1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:48 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:48 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:48 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/Chat.php on line 22
+[24-Dec-2020 01:14:49 UTC] PHP Warning:  Use of undefined constant DB_SERVER1 - assumed 'DB_SERVER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:49 UTC] PHP Warning:  Use of undefined constant DB_USER1 - assumed 'DB_USER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:49 UTC] PHP Warning:  Use of undefined constant DB_PASS1 - assumed 'DB_PASS1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:49 UTC] PHP Warning:  Use of undefined constant DB_NAME1 - assumed 'DB_NAME1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:49 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:49 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:49 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/Chat.php on line 22
+[24-Dec-2020 01:14:49 UTC] PHP Warning:  Use of undefined constant DB_SERVER1 - assumed 'DB_SERVER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:49 UTC] PHP Warning:  Use of undefined constant DB_USER1 - assumed 'DB_USER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:49 UTC] PHP Warning:  Use of undefined constant DB_PASS1 - assumed 'DB_PASS1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:49 UTC] PHP Warning:  Use of undefined constant DB_NAME1 - assumed 'DB_NAME1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:49 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:49 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:49 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/Chat.php on line 22
+[24-Dec-2020 01:14:50 UTC] PHP Warning:  Use of undefined constant DB_SERVER1 - assumed 'DB_SERVER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:50 UTC] PHP Warning:  Use of undefined constant DB_USER1 - assumed 'DB_USER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:50 UTC] PHP Warning:  Use of undefined constant DB_PASS1 - assumed 'DB_PASS1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:50 UTC] PHP Warning:  Use of undefined constant DB_NAME1 - assumed 'DB_NAME1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:50 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:50 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:14:50 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/Chat.php on line 22
+[24-Dec-2020 01:15:02 UTC] PHP Warning:  Use of undefined constant DB_SERVER1 - assumed 'DB_SERVER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:02 UTC] PHP Warning:  Use of undefined constant DB_USER1 - assumed 'DB_USER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:02 UTC] PHP Warning:  Use of undefined constant DB_PASS1 - assumed 'DB_PASS1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:02 UTC] PHP Warning:  Use of undefined constant DB_NAME1 - assumed 'DB_NAME1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:03 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:03 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:03 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/Chat.php on line 22
+[24-Dec-2020 01:15:05 UTC] PHP Warning:  Use of undefined constant DB_SERVER1 - assumed 'DB_SERVER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:05 UTC] PHP Warning:  Use of undefined constant DB_USER1 - assumed 'DB_USER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:05 UTC] PHP Warning:  Use of undefined constant DB_PASS1 - assumed 'DB_PASS1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:05 UTC] PHP Warning:  Use of undefined constant DB_NAME1 - assumed 'DB_NAME1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:05 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:05 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:05 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/Chat.php on line 22
+[24-Dec-2020 01:15:15 UTC] PHP Warning:  Use of undefined constant DB_SERVER1 - assumed 'DB_SERVER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:15 UTC] PHP Warning:  Use of undefined constant DB_USER1 - assumed 'DB_USER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:15 UTC] PHP Warning:  Use of undefined constant DB_PASS1 - assumed 'DB_PASS1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:15 UTC] PHP Warning:  Use of undefined constant DB_NAME1 - assumed 'DB_NAME1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:15 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:15 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:15 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/Chat.php on line 22
+[24-Dec-2020 01:15:17 UTC] PHP Warning:  Use of undefined constant DB_SERVER1 - assumed 'DB_SERVER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:17 UTC] PHP Warning:  Use of undefined constant DB_USER1 - assumed 'DB_USER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:17 UTC] PHP Warning:  Use of undefined constant DB_PASS1 - assumed 'DB_PASS1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:17 UTC] PHP Warning:  Use of undefined constant DB_NAME1 - assumed 'DB_NAME1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:17 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:17 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:17 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/Chat.php on line 22
+[24-Dec-2020 01:15:17 UTC] PHP Warning:  include(../admin/asset/connect.inc.php): failed to open stream: No such file or directory in /home/thehilltop/public_html/chat/insert.php on line 4
+[24-Dec-2020 01:15:17 UTC] PHP Warning:  include(../admin/asset/connect.inc.php): failed to open stream: No such file or directory in /home/thehilltop/public_html/chat/insert.php on line 4
+[24-Dec-2020 01:15:17 UTC] PHP Warning:  include(): Failed opening '../admin/asset/connect.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/thehilltop/public_html/chat/insert.php on line 4
+[24-Dec-2020 01:15:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function userName() in /home/thehilltop/public_html/chat/insert.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/thehilltop/public_html/chat/insert.php on line 6
+[24-Dec-2020 01:15:18 UTC] PHP Warning:  Use of undefined constant DB_SERVER1 - assumed 'DB_SERVER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:18 UTC] PHP Warning:  Use of undefined constant DB_USER1 - assumed 'DB_USER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:18 UTC] PHP Warning:  Use of undefined constant DB_PASS1 - assumed 'DB_PASS1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:18 UTC] PHP Warning:  Use of undefined constant DB_NAME1 - assumed 'DB_NAME1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:18 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:18 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:18 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/Chat.php on line 22
+[24-Dec-2020 01:15:18 UTC] PHP Warning:  Use of undefined constant DB_SERVER1 - assumed 'DB_SERVER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:18 UTC] PHP Warning:  Use of undefined constant DB_USER1 - assumed 'DB_USER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:18 UTC] PHP Warning:  Use of undefined constant DB_PASS1 - assumed 'DB_PASS1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:18 UTC] PHP Warning:  Use of undefined constant DB_NAME1 - assumed 'DB_NAME1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:18 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:18 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:18 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/Chat.php on line 22
+[24-Dec-2020 01:15:19 UTC] PHP Warning:  include(../admin/asset/connect.inc.php): failed to open stream: No such file or directory in /home/thehilltop/public_html/chat/insert.php on line 4
+[24-Dec-2020 01:15:19 UTC] PHP Warning:  include(../admin/asset/connect.inc.php): failed to open stream: No such file or directory in /home/thehilltop/public_html/chat/insert.php on line 4
+[24-Dec-2020 01:15:19 UTC] PHP Warning:  include(): Failed opening '../admin/asset/connect.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/thehilltop/public_html/chat/insert.php on line 4
+[24-Dec-2020 01:15:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function userName() in /home/thehilltop/public_html/chat/insert.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/thehilltop/public_html/chat/insert.php on line 6
+[24-Dec-2020 01:15:19 UTC] PHP Warning:  Use of undefined constant DB_SERVER1 - assumed 'DB_SERVER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:19 UTC] PHP Warning:  Use of undefined constant DB_USER1 - assumed 'DB_USER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:19 UTC] PHP Warning:  Use of undefined constant DB_PASS1 - assumed 'DB_PASS1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:19 UTC] PHP Warning:  Use of undefined constant DB_NAME1 - assumed 'DB_NAME1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:19 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:19 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:19 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/Chat.php on line 22
+[24-Dec-2020 01:15:20 UTC] PHP Warning:  Use of undefined constant DB_SERVER1 - assumed 'DB_SERVER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:20 UTC] PHP Warning:  Use of undefined constant DB_USER1 - assumed 'DB_USER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:20 UTC] PHP Warning:  Use of undefined constant DB_PASS1 - assumed 'DB_PASS1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:20 UTC] PHP Warning:  Use of undefined constant DB_NAME1 - assumed 'DB_NAME1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:20 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:20 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:20 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/Chat.php on line 22
+[24-Dec-2020 01:15:37 UTC] PHP Warning:  Use of undefined constant DB_SERVER1 - assumed 'DB_SERVER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:37 UTC] PHP Warning:  Use of undefined constant DB_USER1 - assumed 'DB_USER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:37 UTC] PHP Warning:  Use of undefined constant DB_PASS1 - assumed 'DB_PASS1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:37 UTC] PHP Warning:  Use of undefined constant DB_NAME1 - assumed 'DB_NAME1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:37 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:37 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:15:37 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/Chat.php on line 22
+[24-Dec-2020 01:16:11 UTC] PHP Warning:  Use of undefined constant DB_SERVER1 - assumed 'DB_SERVER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:11 UTC] PHP Warning:  Use of undefined constant DB_USER1 - assumed 'DB_USER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:11 UTC] PHP Warning:  Use of undefined constant DB_PASS1 - assumed 'DB_PASS1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:11 UTC] PHP Warning:  Use of undefined constant DB_NAME1 - assumed 'DB_NAME1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:11 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/Chat.php on line 22
+[24-Dec-2020 01:16:11 UTC] PHP Warning:  include(../admin/asset/connect.inc.php): failed to open stream: No such file or directory in /home/thehilltop/public_html/chat/insert.php on line 4
+[24-Dec-2020 01:16:11 UTC] PHP Warning:  include(../admin/asset/connect.inc.php): failed to open stream: No such file or directory in /home/thehilltop/public_html/chat/insert.php on line 4
+[24-Dec-2020 01:16:11 UTC] PHP Warning:  include(): Failed opening '../admin/asset/connect.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/thehilltop/public_html/chat/insert.php on line 4
+[24-Dec-2020 01:16:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function userName() in /home/thehilltop/public_html/chat/insert.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/thehilltop/public_html/chat/insert.php on line 6
+[24-Dec-2020 01:16:12 UTC] PHP Warning:  Use of undefined constant DB_SERVER1 - assumed 'DB_SERVER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:12 UTC] PHP Warning:  Use of undefined constant DB_USER1 - assumed 'DB_USER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:12 UTC] PHP Warning:  Use of undefined constant DB_PASS1 - assumed 'DB_PASS1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:12 UTC] PHP Warning:  Use of undefined constant DB_NAME1 - assumed 'DB_NAME1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:12 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:12 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:12 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/Chat.php on line 22
+[24-Dec-2020 01:16:12 UTC] PHP Warning:  include(../admin/asset/connect.inc.php): failed to open stream: No such file or directory in /home/thehilltop/public_html/chat/insert.php on line 4
+[24-Dec-2020 01:16:12 UTC] PHP Warning:  include(../admin/asset/connect.inc.php): failed to open stream: No such file or directory in /home/thehilltop/public_html/chat/insert.php on line 4
+[24-Dec-2020 01:16:12 UTC] PHP Warning:  include(): Failed opening '../admin/asset/connect.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/thehilltop/public_html/chat/insert.php on line 4
+[24-Dec-2020 01:16:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function userName() in /home/thehilltop/public_html/chat/insert.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/thehilltop/public_html/chat/insert.php on line 6
+[24-Dec-2020 01:16:13 UTC] PHP Warning:  Use of undefined constant DB_SERVER1 - assumed 'DB_SERVER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:13 UTC] PHP Warning:  Use of undefined constant DB_USER1 - assumed 'DB_USER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:13 UTC] PHP Warning:  Use of undefined constant DB_PASS1 - assumed 'DB_PASS1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:13 UTC] PHP Warning:  Use of undefined constant DB_NAME1 - assumed 'DB_NAME1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:13 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:13 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:13 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/Chat.php on line 22
+[24-Dec-2020 01:16:13 UTC] PHP Warning:  include(../admin/asset/connect.inc.php): failed to open stream: No such file or directory in /home/thehilltop/public_html/chat/insert.php on line 4
+[24-Dec-2020 01:16:13 UTC] PHP Warning:  include(../admin/asset/connect.inc.php): failed to open stream: No such file or directory in /home/thehilltop/public_html/chat/insert.php on line 4
+[24-Dec-2020 01:16:13 UTC] PHP Warning:  include(): Failed opening '../admin/asset/connect.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/thehilltop/public_html/chat/insert.php on line 4
+[24-Dec-2020 01:16:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function userName() in /home/thehilltop/public_html/chat/insert.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/thehilltop/public_html/chat/insert.php on line 6
+[24-Dec-2020 01:16:13 UTC] PHP Warning:  Use of undefined constant DB_SERVER1 - assumed 'DB_SERVER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:13 UTC] PHP Warning:  Use of undefined constant DB_USER1 - assumed 'DB_USER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:13 UTC] PHP Warning:  Use of undefined constant DB_PASS1 - assumed 'DB_PASS1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:13 UTC] PHP Warning:  Use of undefined constant DB_NAME1 - assumed 'DB_NAME1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:13 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:13 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:13 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/Chat.php on line 22
+[24-Dec-2020 01:16:13 UTC] PHP Warning:  include(../admin/asset/connect.inc.php): failed to open stream: No such file or directory in /home/thehilltop/public_html/chat/insert.php on line 4
+[24-Dec-2020 01:16:13 UTC] PHP Warning:  include(../admin/asset/connect.inc.php): failed to open stream: No such file or directory in /home/thehilltop/public_html/chat/insert.php on line 4
+[24-Dec-2020 01:16:13 UTC] PHP Warning:  include(): Failed opening '../admin/asset/connect.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/thehilltop/public_html/chat/insert.php on line 4
+[24-Dec-2020 01:16:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function userName() in /home/thehilltop/public_html/chat/insert.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/thehilltop/public_html/chat/insert.php on line 6
+[24-Dec-2020 01:16:14 UTC] PHP Warning:  Use of undefined constant DB_SERVER1 - assumed 'DB_SERVER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:14 UTC] PHP Warning:  Use of undefined constant DB_USER1 - assumed 'DB_USER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:14 UTC] PHP Warning:  Use of undefined constant DB_PASS1 - assumed 'DB_PASS1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:14 UTC] PHP Warning:  Use of undefined constant DB_NAME1 - assumed 'DB_NAME1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:14 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:14 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:14 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/Chat.php on line 22
+[24-Dec-2020 01:16:14 UTC] PHP Warning:  include(../admin/asset/connect.inc.php): failed to open stream: No such file or directory in /home/thehilltop/public_html/chat/insert.php on line 4
+[24-Dec-2020 01:16:14 UTC] PHP Warning:  include(../admin/asset/connect.inc.php): failed to open stream: No such file or directory in /home/thehilltop/public_html/chat/insert.php on line 4
+[24-Dec-2020 01:16:14 UTC] PHP Warning:  include(): Failed opening '../admin/asset/connect.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/thehilltop/public_html/chat/insert.php on line 4
+[24-Dec-2020 01:16:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function userName() in /home/thehilltop/public_html/chat/insert.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/thehilltop/public_html/chat/insert.php on line 6
+[24-Dec-2020 01:16:14 UTC] PHP Warning:  Use of undefined constant DB_SERVER1 - assumed 'DB_SERVER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:14 UTC] PHP Warning:  Use of undefined constant DB_USER1 - assumed 'DB_USER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:14 UTC] PHP Warning:  Use of undefined constant DB_PASS1 - assumed 'DB_PASS1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:14 UTC] PHP Warning:  Use of undefined constant DB_NAME1 - assumed 'DB_NAME1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:14 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:14 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:14 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/Chat.php on line 22
+[24-Dec-2020 01:16:14 UTC] PHP Warning:  include(../admin/asset/connect.inc.php): failed to open stream: No such file or directory in /home/thehilltop/public_html/chat/insert.php on line 4
+[24-Dec-2020 01:16:14 UTC] PHP Warning:  include(../admin/asset/connect.inc.php): failed to open stream: No such file or directory in /home/thehilltop/public_html/chat/insert.php on line 4
+[24-Dec-2020 01:16:14 UTC] PHP Warning:  include(): Failed opening '../admin/asset/connect.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/thehilltop/public_html/chat/insert.php on line 4
+[24-Dec-2020 01:16:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function userName() in /home/thehilltop/public_html/chat/insert.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/thehilltop/public_html/chat/insert.php on line 6
+[24-Dec-2020 01:16:18 UTC] PHP Warning:  Use of undefined constant DB_SERVER1 - assumed 'DB_SERVER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:18 UTC] PHP Warning:  Use of undefined constant DB_USER1 - assumed 'DB_USER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:18 UTC] PHP Warning:  Use of undefined constant DB_PASS1 - assumed 'DB_PASS1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:18 UTC] PHP Warning:  Use of undefined constant DB_NAME1 - assumed 'DB_NAME1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:18 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:18 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:18 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/Chat.php on line 22
+[24-Dec-2020 01:16:18 UTC] PHP Warning:  include(../admin/asset/connect.inc.php): failed to open stream: No such file or directory in /home/thehilltop/public_html/chat/insert.php on line 4
+[24-Dec-2020 01:16:18 UTC] PHP Warning:  include(../admin/asset/connect.inc.php): failed to open stream: No such file or directory in /home/thehilltop/public_html/chat/insert.php on line 4
+[24-Dec-2020 01:16:18 UTC] PHP Warning:  include(): Failed opening '../admin/asset/connect.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/thehilltop/public_html/chat/insert.php on line 4
+[24-Dec-2020 01:16:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function userName() in /home/thehilltop/public_html/chat/insert.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/thehilltop/public_html/chat/insert.php on line 6
+[24-Dec-2020 01:16:20 UTC] PHP Warning:  Use of undefined constant DB_SERVER1 - assumed 'DB_SERVER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:20 UTC] PHP Warning:  Use of undefined constant DB_USER1 - assumed 'DB_USER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:20 UTC] PHP Warning:  Use of undefined constant DB_PASS1 - assumed 'DB_PASS1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:20 UTC] PHP Warning:  Use of undefined constant DB_NAME1 - assumed 'DB_NAME1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:20 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:20 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:20 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/Chat.php on line 22
+[24-Dec-2020 01:16:33 UTC] PHP Warning:  Use of undefined constant DB_SERVER1 - assumed 'DB_SERVER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:33 UTC] PHP Warning:  Use of undefined constant DB_USER1 - assumed 'DB_USER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:33 UTC] PHP Warning:  Use of undefined constant DB_PASS1 - assumed 'DB_PASS1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:33 UTC] PHP Warning:  Use of undefined constant DB_NAME1 - assumed 'DB_NAME1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:33 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:33 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:16:33 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/Chat.php on line 22
+[24-Dec-2020 01:17:35 UTC] PHP Warning:  Use of undefined constant DB_SERVER1 - assumed 'DB_SERVER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:17:35 UTC] PHP Warning:  Use of undefined constant DB_USER1 - assumed 'DB_USER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:17:35 UTC] PHP Warning:  Use of undefined constant DB_PASS1 - assumed 'DB_PASS1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:17:35 UTC] PHP Warning:  Use of undefined constant DB_NAME1 - assumed 'DB_NAME1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:17:35 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:17:35 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:17:35 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/Chat.php on line 22
+[24-Dec-2020 01:18:47 UTC] PHP Warning:  Use of undefined constant DB_SERVER1 - assumed 'DB_SERVER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:18:47 UTC] PHP Warning:  Use of undefined constant DB_USER1 - assumed 'DB_USER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:18:47 UTC] PHP Warning:  Use of undefined constant DB_PASS1 - assumed 'DB_PASS1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:18:47 UTC] PHP Warning:  Use of undefined constant DB_NAME1 - assumed 'DB_NAME1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:18:47 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:18:47 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:18:47 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/Chat.php on line 22
+[24-Dec-2020 01:20:15 UTC] PHP Warning:  Use of undefined constant DB_SERVER1 - assumed 'DB_SERVER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:20:15 UTC] PHP Warning:  Use of undefined constant DB_USER1 - assumed 'DB_USER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:20:15 UTC] PHP Warning:  Use of undefined constant DB_PASS1 - assumed 'DB_PASS1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:20:15 UTC] PHP Warning:  Use of undefined constant DB_NAME1 - assumed 'DB_NAME1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:20:15 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:20:15 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:20:15 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/Chat.php on line 22
+[24-Dec-2020 01:21:07 UTC] PHP Warning:  Use of undefined constant DB_SERVER1 - assumed 'DB_SERVER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:21:07 UTC] PHP Warning:  Use of undefined constant DB_USER1 - assumed 'DB_USER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:21:07 UTC] PHP Warning:  Use of undefined constant DB_PASS1 - assumed 'DB_PASS1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:21:07 UTC] PHP Warning:  Use of undefined constant DB_NAME1 - assumed 'DB_NAME1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:21:07 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:21:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:21:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/Chat.php on line 22
+[24-Dec-2020 01:22:05 UTC] PHP Warning:  Use of undefined constant DB_SERVER1 - assumed 'DB_SERVER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:22:05 UTC] PHP Warning:  Use of undefined constant DB_USER1 - assumed 'DB_USER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:22:05 UTC] PHP Warning:  Use of undefined constant DB_PASS1 - assumed 'DB_PASS1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:22:05 UTC] PHP Warning:  Use of undefined constant DB_NAME1 - assumed 'DB_NAME1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:22:05 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:22:05 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:22:05 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/Chat.php on line 22
+[24-Dec-2020 01:23:06 UTC] PHP Warning:  Use of undefined constant DB_SERVER1 - assumed 'DB_SERVER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:23:06 UTC] PHP Warning:  Use of undefined constant DB_USER1 - assumed 'DB_USER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:23:06 UTC] PHP Warning:  Use of undefined constant DB_PASS1 - assumed 'DB_PASS1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:23:06 UTC] PHP Warning:  Use of undefined constant DB_NAME1 - assumed 'DB_NAME1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:23:06 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:23:06 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:23:06 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/Chat.php on line 22
+[24-Dec-2020 01:24:12 UTC] PHP Warning:  Use of undefined constant DB_SERVER1 - assumed 'DB_SERVER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:24:12 UTC] PHP Warning:  Use of undefined constant DB_USER1 - assumed 'DB_USER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:24:12 UTC] PHP Warning:  Use of undefined constant DB_PASS1 - assumed 'DB_PASS1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:24:12 UTC] PHP Warning:  Use of undefined constant DB_NAME1 - assumed 'DB_NAME1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:24:12 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:24:12 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:24:12 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/Chat.php on line 22
+[24-Dec-2020 01:25:08 UTC] PHP Warning:  Use of undefined constant DB_SERVER1 - assumed 'DB_SERVER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:25:08 UTC] PHP Warning:  Use of undefined constant DB_USER1 - assumed 'DB_USER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:25:08 UTC] PHP Warning:  Use of undefined constant DB_PASS1 - assumed 'DB_PASS1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:25:08 UTC] PHP Warning:  Use of undefined constant DB_NAME1 - assumed 'DB_NAME1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:25:08 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:25:08 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:25:08 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/Chat.php on line 22
+[24-Dec-2020 01:33:52 UTC] PHP Warning:  Use of undefined constant DB_SERVER1 - assumed 'DB_SERVER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:33:52 UTC] PHP Warning:  Use of undefined constant DB_USER1 - assumed 'DB_USER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:33:52 UTC] PHP Warning:  Use of undefined constant DB_PASS1 - assumed 'DB_PASS1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:33:52 UTC] PHP Warning:  Use of undefined constant DB_NAME1 - assumed 'DB_NAME1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:33:52 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:33:52 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 01:33:52 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/Chat.php on line 22
+[24-Dec-2020 12:22:59 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/thehilltop/public_html/chat/ext.php on line 11
+[24-Dec-2020 11:24:06 UTC] PHP Warning:  Use of undefined constant DB_SERVER1 - assumed 'DB_SERVER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 11:24:06 UTC] PHP Warning:  Use of undefined constant DB_USER1 - assumed 'DB_USER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 11:24:06 UTC] PHP Warning:  Use of undefined constant DB_PASS1 - assumed 'DB_PASS1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 11:24:06 UTC] PHP Warning:  Use of undefined constant DB_NAME1 - assumed 'DB_NAME1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 11:24:07 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 11:24:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 11:24:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/Chat.php on line 22
+[24-Dec-2020 11:25:20 UTC] PHP Warning:  Use of undefined constant DB_SERVER1 - assumed 'DB_SERVER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 11:25:20 UTC] PHP Warning:  Use of undefined constant DB_USER1 - assumed 'DB_USER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 11:25:20 UTC] PHP Warning:  Use of undefined constant DB_PASS1 - assumed 'DB_PASS1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 11:25:20 UTC] PHP Warning:  Use of undefined constant DB_NAME1 - assumed 'DB_NAME1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 11:25:20 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 11:25:20 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 11:25:20 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/Chat.php on line 22
+[24-Dec-2020 11:26:43 UTC] PHP Warning:  Use of undefined constant DB_SERVER1 - assumed 'DB_SERVER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 11:26:43 UTC] PHP Warning:  Use of undefined constant DB_USER1 - assumed 'DB_USER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 11:26:43 UTC] PHP Warning:  Use of undefined constant DB_PASS1 - assumed 'DB_PASS1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 11:26:43 UTC] PHP Warning:  Use of undefined constant DB_NAME1 - assumed 'DB_NAME1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 11:26:44 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 11:26:44 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 11:26:44 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/Chat.php on line 22
+[24-Dec-2020 11:27:10 UTC] PHP Warning:  Use of undefined constant DB_SERVER1 - assumed 'DB_SERVER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 11:27:10 UTC] PHP Warning:  Use of undefined constant DB_USER1 - assumed 'DB_USER1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 11:27:10 UTC] PHP Warning:  Use of undefined constant DB_PASS1 - assumed 'DB_PASS1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 11:27:10 UTC] PHP Warning:  Use of undefined constant DB_NAME1 - assumed 'DB_NAME1' (this will throw an Error in a future version of PHP) in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 11:27:10 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 11:27:10 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/thehilltop/public_html/chat/Chat.php on line 10
+[24-Dec-2020 11:27:10 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thehilltop/public_html/chat/Chat.php on line 22
